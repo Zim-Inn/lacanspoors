@@ -3,5 +3,5 @@
 
 
 
-如何写脚注？[^likethis]
+如何写脚注？[^likethis].
 [^likethis]：如此简单
